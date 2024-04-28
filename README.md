@@ -1,2 +1,2 @@
-# Discord-Remainder-Bot
-Basic Remainder Bot for Discord
+# Discord Reminder Bot
+ Basic Reminder Bot for Discord
